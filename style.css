@@ -1,0 +1,39 @@
+body {
+  background-color: #508ca4;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+main {
+  margin: 1% 15%;
+  background-color: #a3d5d3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#title {
+  color: #004f2d;
+}
+
+#img-div {
+  float: right;
+}
+
+article {
+  padding: 5% 5%;
+  color: #0a8754;
+  background-color: #ebebeb;
+  margin: 1% 15%;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
